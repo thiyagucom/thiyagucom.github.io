@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Thiyagarajan Karuppaiah"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dp.png"
   bio    : "Cloud Architect"
   links:
     - label: "Resume"
