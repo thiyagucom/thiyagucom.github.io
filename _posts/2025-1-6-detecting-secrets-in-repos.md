@@ -27,26 +27,30 @@ Gitleaks is a free, open-source tool that inspects Git repositories for potentia
 
 There are two primary ways to leverage Gitleaks for secret scanning:
 
-* Pre-commit Hooks: Git hooks are scripts that run before or after specific Git events, such as commits, pushes, or merges. Pre-commit hooks specifically run before a commit is finalized and can be used for various tasks, including secret scanning with Gitleaks. You can find instructions for setting up Gitleaks as a pre-commit hook in the official documentation: [Gitleaks as pre-commit hook](https://github.com/gitleaks/gitleaks?tab=readme-ov-file#pre-commit):
+### Pre-commit Hooks: 
+Git hooks are scripts that run before or after specific Git events, such as commits, pushes, or merges. Pre-commit hooks specifically run before a commit is finalized and can be used for various tasks, including secret scanning with Gitleaks. You can find instructions for setting up Gitleaks as a pre-commit hook in the official documentation: [Gitleaks as pre-commit hook](https://github.com/gitleaks/gitleaks?tab=readme-ov-file#pre-commit):
 
 ![Pre Commit Hook](/assets/precommit.png)
 
-* CI/CD Pipeline Integration: Integrating Gitleaks with your CI/CD pipeline allows for automated scanning of your repositories as part of the development process. This ensures that secret leaks are caught early and addressed before they become a security risk.
+### CI/CD Pipeline Integration: 
+Integrating Gitleaks with your CI/CD pipeline allows for automated scanning of your repositories as part of the development process. This ensures that secret leaks are caught early and addressed before they become a security risk.
 The specific steps for integrating Gitleaks with your CI/CD pipeline will vary depending on the platform you are using. Here are some examples:
 
-GitLab pipeline: 
+* GitLab pipeline: 
 
 ![GitLab](/assets/gitlab-gitleaks.png)
 
-GitHub pipeline: 
+* GitHub pipeline: 
 
 GitHub scans repositories for known types of secrets, to prevent fraudulent use of secrets that were committed accidentally. Secret scanning is available for the following repositories:
 
-* Public repositories (for free)
-* Private and internal repositories in organizations using GitHub Enterprise Cloud with GitHub Advanced Security enabled
+  * Public repositories (for free)
+  * Private and internal repositories in organizations using GitHub Enterprise Cloud with GitHub Advanced Security enabled
 
 Gitleak can be used as Github Action to scan the repositories
 
 ![GitHub](/assets/github-gitleaks.png)
 
 By implementing secret scanning with Gitleaks, you can significantly improve the security of your code repositories and prevent accidental leaks of sensitive information.
+
+Spread the word! Like, clap, and share!
