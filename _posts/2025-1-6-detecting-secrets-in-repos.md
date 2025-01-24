@@ -1,5 +1,7 @@
 ---
 title: "Detecting secrets in Source Code"
+categories:
+  - How To
 tags:
   - Git
   - GitLeaks
