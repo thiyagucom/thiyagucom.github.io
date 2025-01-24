@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Hello there! Thanks for dropin"
 ---
-<br></br>
+<br>
 I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
 16+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
