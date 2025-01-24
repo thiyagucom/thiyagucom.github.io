@@ -1,5 +1,7 @@
 ---
 title: "Securely Expose Services Privately with Private Service Connect"
+categories:
+  - Architect
 tags:
   - Google Cloud
   - Hybrid Cloud
