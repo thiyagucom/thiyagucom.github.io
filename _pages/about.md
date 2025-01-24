@@ -1,9 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "Hello there! Thanks for dropin"
 ---
-
-## Hello there! Thanks for dropin 🙂
 
 I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
