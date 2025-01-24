@@ -1,5 +1,7 @@
 ---
 title: "Building Cloud Infrastructure"
+categories:
+  - Architect
 tags:
   - Cloud Arcitecture
   - Cloud Landing Zone
