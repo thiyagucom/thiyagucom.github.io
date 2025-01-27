@@ -16,10 +16,9 @@ feature_qualification:
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
-<br>
-I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
-16+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
+### About Me
+I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
 ### Education
 
