@@ -1,5 +1,9 @@
 ---
-permalink: /about/
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: dp.png
 title: "Hello there! Thanks for dropin"
 ---
 <br>
