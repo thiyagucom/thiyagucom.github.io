@@ -8,6 +8,11 @@ feature_row4:
     alt: "Thiyagarajan Karuppaiah"
     title: "Cloud Architect - Infrastructure"
     excerpt: 'Scroll Down to Know More'
+feature_qualification:
+  - title: "Education"
+    excerpt: "BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University."
+  - title: "Certification"
+    excerpt: "Google Cloud Certified "Professional Cloud Architect"  Amazon Web Services Certified "Solutions Architect – Associate""
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
@@ -16,6 +21,8 @@ I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture D
 
 16+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
 
+<br>
+{% include feature_row id="feature_qualification" %}
 ### Education
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
