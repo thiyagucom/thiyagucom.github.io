@@ -6,7 +6,7 @@ header:
 feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
-    title: "Cloud Architect - Infrastructure"
+    title: "Techi | Athlete"
     excerpt: 'Scroll Down to Know More'
 feature_qualification:
   - title: "Google Cloud"
@@ -25,7 +25,9 @@ I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture D
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
-{% include feature_row id="feature_qualification" type="center" %}
+### Certification
+
+{% include feature_row id="feature_qualification" %}
 
 ### Skills
 
