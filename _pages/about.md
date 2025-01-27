@@ -3,12 +3,9 @@ layout: splash
 permalink: /about/
 feature_row4:
   - image_path: /assets/images/avatar.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    alt: "Thiyagarajan Karuppaiah"
+    title: "Cloud Architect - Infrastructure"
+    excerpt: 'Scroll Down to Know More'
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
