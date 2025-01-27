@@ -12,7 +12,7 @@ feature_qualification:
   - title: "Education"
     excerpt: "BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University."
   - title: "Certification"
-    excerpt: "Google Cloud Certified "Professional Cloud Architect"  Amazon Web Services Certified "Solutions Architect – Associate""
+    excerpt: "Google Cloud 'Certified Professional Cloud Architect'  Amazon Web Services Certified 'Solutions Architect – Associate'"
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
