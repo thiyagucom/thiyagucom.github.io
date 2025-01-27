@@ -2,7 +2,18 @@
 layout: splash
 permalink: /about/
 header:
-  overlay_image: assets/images/dp.png
+  overlay_image: /assets/images/avatar.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+
+feature_row4:
+  - image_path: /assets/images/avatar.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 title: "Hello there! Thanks for dropin"
 ---
 <br>
