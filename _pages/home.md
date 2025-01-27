@@ -1,6 +1,8 @@
 ---
 layout: splash
 permalink: /
+hidden: true
+header:
 feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
