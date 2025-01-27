@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about/
+permalink: /
 feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
