@@ -7,13 +7,6 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi | Athlete"
-    excerpt: 'Scroll Down to Know More'
-    url: "https://www.linkedin.com/in/2thiyagu/"
-    btn_class: "btn--info"
-    btn_label: "Stay in Touch"
-    url: "https://www.linkedin.com/in/2thiyagu/"
-    btn_class: "btn--success"
-    btn_label: "Stay in Touch"
 feature_qualification:
   - title: "Google Cloud"
     excerpt: "Professional Cloud Architect"
@@ -22,6 +15,8 @@ feature_qualification:
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
+<br>
+[](#link){: .btn .btn--twitter} | [](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin} 
 
 ### About Me
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
