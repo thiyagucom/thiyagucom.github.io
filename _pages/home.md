@@ -40,6 +40,7 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
     <td>Solutions Architect – Associate</td>
  </tr>
 </table>
+{: .text-center}
 
 ### Skills
 
