@@ -81,13 +81,3 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 
 ### Contact
  [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
-
-<!-- icons with padding -->
-
-[1.1]: /assets/images/outlook_logo.png
-[3.1]: /assets/images/linkedin_icon.png
-[2.1]: /assets/images/twitter_icon.png
-
-[1]: https://thiyagu.com
-[2]: https://twitter.com/2mrt
-[3]: https://www.linkedin.com/in/2thiyagu
