@@ -6,9 +6,9 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[![Website][1.1]][1]
-[![Twitter][2.1]][2]
-[![Linkedin][3.1]][3]"
+    excerpt: "[![Website][/assets/images/outlook_logo.png]](https://thiyagu.com)
+[![Twitter][/assets/images/twitter_icon.png]](https://twitter.com/2mrt)
+[![Linkedin][/assets/images/linkedin_icon.png]](https://www.linkedin.com/in/2thiyagu/)"
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
