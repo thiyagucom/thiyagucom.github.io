@@ -2,6 +2,7 @@
 title: "Detecting secrets in Source Code"
 categories:
   - Guides
+classes: wide
 tags:
   - Git
   - GitLeaks
