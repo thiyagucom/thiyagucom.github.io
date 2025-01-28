@@ -28,7 +28,7 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 ## Education and Certifications
 {: .text-center}
 
-{% include feature_row id="feature_certification" type="center" %}
+{% include feature_row id="feature_certification" %}
 
 * BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
