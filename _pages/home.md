@@ -7,7 +7,7 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi | Athlete"
-    excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}"
+    excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin} {: .text-center}"
 feature_social:
 feature_qualification:
   - title: "Google Cloud"
