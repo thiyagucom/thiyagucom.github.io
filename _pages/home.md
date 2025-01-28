@@ -84,9 +84,9 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 
 <!-- icons with padding -->
 
-[1.1]: /assets/images/4202101_outlook_logo_microsoft_social_social media_icon.png
-[3.1]: /assets/images/317750_linkedin_icon.png
-[2.1]: /assets/images/3225183_app_logo_media_popular_social_icon.png
+[1.1]: /assets/images/outlook_logo.png
+[3.1]: /assets/images/linkedin_icon.png
+[2.1]: /assets/images/twitter_icon.png
 
 [1]: https://thiyagu.com
 [2]: https://twitter.com/2mrt
