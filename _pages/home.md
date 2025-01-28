@@ -6,7 +6,9 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}<br>{: .text-center}"
+    excerpt: "[![Website][1.1]][1]
+[![Linkedin][2.1]][2]
+[![Twitter][3.1]][3]"
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
@@ -79,3 +81,13 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 
 ### Contact
  [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
+
+<!-- icons with padding -->
+
+[1.1]: /assets/images/4202101_outlook_logo_microsoft_social_social media_icon.png
+[3.1]: /assets/images/317750_linkedin_icon.png
+[2.1]: /assets/images/3225183_app_logo_media_popular_social_icon.png
+
+[1]: https://thiyagu.com
+[2]: https://twitter.com/2mrt
+[3]: https://www.linkedin.com/in/2thiyagu
