@@ -6,7 +6,7 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}"
+    excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}<br>{: .text-center}"
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
