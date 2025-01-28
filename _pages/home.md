@@ -22,20 +22,17 @@ title: "Hello there! Thanks for dropin"
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
 
-# Education
+## Education and Certifications
 {: .text-center}
 
-BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
-
-# Certification
-{: .text-center}
+* BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 * Google Cloud Certified “Professional Cloud Architect”
 
 * Amazon Web Services Certified “Solutions Architect – Associate”
 
 
-# Work Experience
+## Work Experience
 {: .text-center}
 
 #### April, 2017 to Present: Rappit (Formally known as Vanenburg Software), Coimbatore as "Sr. Principal Cloud Architect"
