@@ -2,6 +2,7 @@
 title: "Optimizing IaC Pipelines"
 categories:
   - Architect
+classes: wide
 tags:
   - Google Cloud
   - Hybrid Cloud
