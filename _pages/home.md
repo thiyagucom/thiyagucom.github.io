@@ -8,6 +8,9 @@ feature_row4:
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi | Athlete"
     excerpt: 'Scroll Down to Know More'
+    actions:
+    - label: "<i class='fas fa-linkedin'></i> Stay in Touch"
+      url: "https://www.linkedin.com/in/2thiyagu/"
 feature_qualification:
   - title: "Google Cloud"
     excerpt: "Professional Cloud Architect"
