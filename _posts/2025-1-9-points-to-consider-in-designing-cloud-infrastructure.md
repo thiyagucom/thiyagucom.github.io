@@ -2,6 +2,7 @@
 title: "Building Cloud Infrastructure"
 categories:
   - Architect
+classes: wide
 tags:
   - Cloud Arcitecture
   - Cloud Landing Zone
