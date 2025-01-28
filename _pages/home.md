@@ -47,7 +47,8 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 - Apache, IIS, Nginx, HAProxy, CDN
 - Tomcat, JBoss, WebLogic, WebSphere
 
-### Experience
+# Work Experience
+{: .text-center}
 
 #### April, 2017 to Present: Vanenburg Software, Coimbatore as "Cloud Architect"
 
