@@ -19,7 +19,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__item-body">
+        <div style="border-bottom: 0px;" class="archive__item-body">
           {% if f.title %}
             <h2 style="text-align: center;" class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
