@@ -30,7 +30,16 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 ### Certification
 
-{% include feature_row id="feature_qualification" %}
+<table class="feature__item--center" border="0">
+ <tr>
+    <td><b style="font-size:30px align:center">Google Cloud</b></td>
+    <td><b style="font-size:30px align:center">Amazon Web Services</b></td>
+ </tr>
+ <tr>
+    <td>Professional Cloud Architect</td>
+    <td>Solutions Architect – Associate</td>
+ </tr>
+</table>
 
 ### Skills
 
