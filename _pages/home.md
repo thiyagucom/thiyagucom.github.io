@@ -6,7 +6,7 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[![Website](assets/images/outlook_logo.png)](https://thiyagu.com)
+    excerpt: "[![Website|48](assets/images/outlook_logo.png)](https://thiyagu.com)
 [![Twitter](assets/images/twitter_icon.png)](https://twitter.com/2mrt)
 [![Linkedin](assets/images/linkedin_icon.png)](https://www.linkedin.com/in/2thiyagu/)"
 feature_certification:
@@ -79,5 +79,7 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 
 
 
-### Contact
+## Contact
+{: .text-center}
+
  [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
