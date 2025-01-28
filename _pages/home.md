@@ -32,13 +32,6 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 
 {% include feature_row id="feature_certification" %}
 
-* BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
-
-* Google Cloud Certified “Professional Cloud Architect
-
-* Amazon Web Services Certified “Solutions Architect – Associate”
-
-
 ## Work Experience
 {: .text-center}
 
