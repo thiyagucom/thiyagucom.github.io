@@ -6,9 +6,8 @@ feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[<img alt='website' width='48px' src='assets/images/website.png'>](https://thiyagu.com)
-[<img alt='twitter' width='48px' src='assets/images/twitter_icon.png'>](https://twitter.com/2mrt)
-[<img alt='linkedin' width='48px' src='assets/images/connect-on-LinkedIn-button.png'>](https://www.linkedin.com/in/2thiyagu/)"
+    excerpt: "[<img alt='twitter' width='72px' src='assets/images/twitter_icon.png'>](https://twitter.com/2mrt)
+[<img alt='linkedin' width='72px' src='assets/images/connect-on-LinkedIn-button.png'>](https://www.linkedin.com/in/2thiyagu/)"
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
