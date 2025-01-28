@@ -21,26 +21,16 @@ title: "Hello there! Thanks for dropin"
 
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
-# Qualification
-{: .text-center}
 
-### Education
+--- Education ---
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
-### Certification
+-Certification-
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px align:center">Google Cloud</b></td>
-    <td><b style="font-size:30px align:center">Amazon Web Services</b></td>
- </tr>
- <tr>
-    <td>Professional Cloud Architect</td>
-    <td>Solutions Architect – Associate</td>
- </tr>
-</table>
-{: .text-center}
+Google Cloud Certified “Professional Cloud Architect”
+
+Amazon Web Services Certified “Solutions Architect – Associate”
 
 ### Skills
 
