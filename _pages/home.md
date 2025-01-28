@@ -2,18 +2,11 @@
 layout: splash
 permalink: /
 hidden: true
-header:
 feature_row4:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
     excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}"
-feature_social:
-feature_qualification:
-  - title: "Google Cloud"
-    excerpt: "Professional Cloud Architect"
-  - title: "Amazon Web Services"
-    excerpt: "Solutions Architect – Associate"
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
