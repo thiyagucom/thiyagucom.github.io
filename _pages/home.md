@@ -15,11 +15,10 @@ feature_qualification:
     excerpt: "Solutions Architect – Associate"
 title: "Hello there! Thanks for dropin"
 ---
-{% include feature_row id="feature_row4" type="center"
+{% include feature_row id="feature_row4" type="center" %}
 <br>
 [Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin} 
-
- %}
+{: .text-center}
 
 ### About Me
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
