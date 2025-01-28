@@ -2,6 +2,7 @@
 title: "Securely Expose Services Privately with Private Service Connect"
 categories:
   - Architect
+classes: wide
 tags:
   - Google Cloud
   - Hybrid Cloud
