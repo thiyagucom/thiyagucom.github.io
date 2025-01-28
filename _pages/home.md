@@ -7,6 +7,16 @@ feature_row4:
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
     excerpt: "[Follow Me](#link){: .btn .btn--twitter} | [Stay in Touch](https://www.linkedin.com/in/2thiyagu/){: .btn .btn--linkedin}"
+feature_certification:
+  - image_path: /assets/images/education-degree.png
+    alt: "Thiyagarajan Karuppaiah"
+    title: "BCA 2005-2008, Bharathiar University"
+  - image_path: /assets/images/professional-cloud-architect-certification.png
+    alt: "Thiyagarajan Karuppaiah"
+    title: "Google Cloud Certified 'Professional Cloud Architect'"
+  - image_path: /assets/images/aws-certified-solutions-architect-associate.png
+    alt: "Thiyagarajan Karuppaiah"
+    title: "Amazon Web Services Certified 'Solutions Architect – Associate'"
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
@@ -18,9 +28,11 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 ## Education and Certifications
 {: .text-center}
 
+{% include feature_row id="feature_certification" type="center" %}
+
 * BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
-* Google Cloud Certified “Professional Cloud Architect”
+* Google Cloud Certified “Professional Cloud Architect
 
 * Amazon Web Services Certified “Solutions Architect – Associate”
 
