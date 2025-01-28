@@ -12,13 +12,13 @@ feature_row4:
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
-    title: "BCA 2005-2008, Bharathiar University"
+    title: "BCA, Bharathiar University"
   - image_path: /assets/images/professional-cloud-architect-certification.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Google Cloud Certified 'Professional Cloud Architect'"
   - image_path: /assets/images/aws-certified-solutions-architect-associate.png
     alt: "Thiyagarajan Karuppaiah"
-    title: "Amazon Web Services Certified 'Solutions Architect – Associate'"
+    title: "AWS Certified 'Solutions Architect – Associate'"
 title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
