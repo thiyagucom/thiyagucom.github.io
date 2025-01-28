@@ -22,35 +22,23 @@ title: "Hello there! Thanks for dropin"
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
 
---- Education ---
+# Education
+{: .text-center}
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
--Certification-
+# Certification
+{: .text-center}
 
-Google Cloud Certified “Professional Cloud Architect”
+* Google Cloud Certified “Professional Cloud Architect”
 
-Amazon Web Services Certified “Solutions Architect – Associate”
+* Amazon Web Services Certified “Solutions Architect – Associate”
 
-### Skills
-
-- GCP, AWS
-  - Architecting Hybrid Cloud Infrastructure
-  - Landing Zone
-  - Hub and Spoke 
-  - CIS, SOC2 and GDPR Compliant 
-- Docker, kubernetes
-- Linux, Windows
-- CI/CD, Terraform, Ansible, Jenkins, GitLab, GitHub, ELK Stack
-- Prowler, Checkov
-- Python, Shell, Batch
-- Apache, IIS, Nginx, HAProxy, CDN
-- Tomcat, JBoss, WebLogic, WebSphere
 
 # Work Experience
 {: .text-center}
 
-#### April, 2017 to Present: Vanenburg Software, Coimbatore as "Cloud Architect"
+#### April, 2017 to Present: Rappit (Formally known as Vanenburg Software), Coimbatore as "Sr. Principal Cloud Architect"
 
 - Architect cloud landing zones that incorporate security, compliance, scale and governance enabling quick & easy cloud migration and application modernization in the cloud.
 - Implementing automation and orchestration of cloud operations using Terraform, Ansible and CI/CD systems
