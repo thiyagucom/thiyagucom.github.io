@@ -23,9 +23,8 @@ title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
 
-Hello There!
-
-Welcome to my tech blog! This is a collection of my technological experiences, presented in the form of helpful guides and insightful tips
+Hello There! Welcome to my tech blog! This is a collection of my technological experiences, presented in the form of helpful guides and insightful tips
+{: .text-center}
 
 ## About Me
 {: .text-center}
