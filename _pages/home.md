@@ -23,6 +23,12 @@ title: "Hello there! Thanks for dropin"
 ---
 {% include feature_row id="feature_row4" type="center" %}
 
+Hello There!
+
+Welcome to my tech blog! This is a collection of my technological experiences, presented in the form of helpful guides and insightful tips
+
+## About Me
+{: .text-center}
 
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
@@ -69,10 +75,3 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 - Configured, deployed, maintained Secure Wired and wireless Network using Routers, Modems, and Switches
 - Install, configure and maintained the secure Windows and Linux file web and mail server in On-perm and VPS Hosting
 - Assembled, Installed, configured and maintained Windows and Linux desktops
-
-
-
-## Contact
-{: .text-center}
-
- [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
