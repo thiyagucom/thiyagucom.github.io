@@ -35,7 +35,7 @@ I’m an Cloud Architect with 16+ years of experience in crafting and optimizing
 ## Work Experience
 {: .text-center}
 
-#### April, 2017 to Present: Rappit (Formally known as Vanenburg Software), Coimbatore as "Sr. Principal Cloud Architect"
+#### April, 2017 to Present: Rappit (Formally Vanenburg Software), Coimbatore as "Sr. Principal Cloud Architect"
 
 - Architect cloud landing zones that incorporate security, compliance, scale and governance enabling quick & easy cloud migration and application modernization in the cloud.
 - Implementing automation and orchestration of cloud operations using Terraform, Ansible and CI/CD systems
