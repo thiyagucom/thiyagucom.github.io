@@ -2,8 +2,6 @@ main:
   - title: "Home"
     url: http://thiyagu.com
   - title: "Blog"
-    url: /blog/
-  - title: "Categories"
-    url: /categories/
+    url: /
   - title: "About"
     url: /about
