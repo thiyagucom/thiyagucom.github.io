@@ -76,6 +76,13 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-GPKF04VQ18" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
 footer:
   links:
     - label: "Twitter"
