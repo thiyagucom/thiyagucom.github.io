@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /about
 hidden: true
 feature_row4:
   - image_path: /assets/images/avatar.png
@@ -21,13 +21,8 @@ feature_certification:
     title: "AWS Certified 'Solutions Architect – Associate'"
 title: "Hello there! Thanks for dropin"
 ---
-{% include feature_row id="feature_row4" type="center" %}
 
-Hello There! Welcome to my tech blog! This is a collection of my technological experiences, presented in the form of helpful guides and insightful tips
-{: .text-center}
-
-## About Me
-{: .text-center}
+## Hello There!
 
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
