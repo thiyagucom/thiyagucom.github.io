@@ -8,7 +8,8 @@ feature_row4:
     title: "Techi - Athlete - Blithesome"
     excerpt: "[<img alt='twitter' width='48px' src='assets/images/cv-icon.png'>](https://thiyagarajan.in)
     [<img alt='twitter' width='48px' src='assets/images/twitter_icon.png'>](https://twitter.com/2mrt)
-[<img alt='linkedin' width='48px' src='assets/images/linkedin_icon.png'>](https://www.linkedin.com/in/2thiyagu/)"
+[<img alt='linkedin' width='48px' src='assets/images/linkedin_icon.png'>](https://www.linkedin.com/in/2thiyagu/)
+I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy."
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
@@ -22,7 +23,7 @@ feature_certification:
 title: "Hello there! Thanks for dropin"
 ---
 
-## Hello There!
+{% include feature_row id="feature_certification" left%}
 
 I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
 
