@@ -6,10 +6,10 @@ feature_about:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "[<img alt='twitter' width='48px' src='assets/images/cv-icon.png'>](https://thiyagarajan.in)
+    excerpt: "I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.  <br>
+    [<img alt='twitter' width='48px' src='assets/images/cv-icon.png'>](https://thiyagarajan.in)
     [<img alt='twitter' width='48px' src='assets/images/twitter_icon.png'>](https://twitter.com/2mrt)
-[<img alt='linkedin' width='48px' src='assets/images/linkedin_icon.png'>](https://www.linkedin.com/in/2thiyagu/)
-I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy."
+[<img alt='linkedin' width='48px' src='assets/images/linkedin_icon.png'>](https://www.linkedin.com/in/2thiyagu/)"
 feature_certification:
   - image_path: /assets/images/education-degree.png
     alt: "Thiyagarajan Karuppaiah"
