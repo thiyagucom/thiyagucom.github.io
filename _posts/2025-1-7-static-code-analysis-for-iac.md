@@ -172,6 +172,11 @@ Checkov's scan results are presented in a detailed report, outlining both succes
 
 To avoid **False Positives** tailor Checkov to your specific needs by reviewing and adjusting its policies and rules.  You can exclude specific checks using the ```--skip-check``` flag, or create custom policies to align with your unique requirements. If you encounter suspected false negatives, double-check that Checkov is scanning all relevant directories and files, and verify that you are using the latest version of Checkov
 
+## Reference
+
+* https://github.com/bridgecrewio/checkov
+* https://www.checkov.io/
+
 ## Conclusion 
 
 With the growing adoption of **Infrastructure as Code (IaC)**, maintaining the security and compliance of these configurations is paramount. **Checkov** empowers organizations to proactively identify potential security risks before deployment, effectively preventing misconfigurations and vulnerabilities that could compromise their infrastructure.
