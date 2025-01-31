@@ -56,4 +56,14 @@ Gitleak can be used as Github Action to scan the repositories
 
 By implementing secret scanning with Gitleaks, you can significantly improve the security of your code repositories and prevent accidental leaks of sensitive information.
 
+## Customization
+
+* GitLeaks allows for flexible configuration, enabling users and organizations to tailor scans to their specific needs.
+* Custom rules can be defined, and files or directories can be excluded from analysis.
+* Further configuration options include settings for output formatting, verbosity, and other operational parameters.
+
+# Reference:
+
+https://github.com/gitleaks
+
 Spread the word! Like, clap, and share!
