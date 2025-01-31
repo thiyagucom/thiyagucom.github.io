@@ -60,6 +60,8 @@ Static Code Analysis enables the identification and assessment of vulnerabilitie
 
 Suggested tool: [Checkov by Prisma Cloud](https://www.checkov.io/)
 
+For further insights into Chekov, please refer to my How To [Post](https://thiyagu.com/blog/guides/static-code-analysis-for-iac/)
+
 ### Terraform Plan & Apply
 
 Before applying any Terraform changes, it is imperative to execute a ``` terraform plan ```. This plan must undergo a dual review process (four-eyes principle) by two individuals before proceeding with terraform apply.
