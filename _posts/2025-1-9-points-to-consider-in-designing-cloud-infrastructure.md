@@ -15,7 +15,7 @@ tags:
 ---
 A robust cloud architecture framework is essential for organizations seeking to maximize the benefits of cloud computing. By prioritizing security, scalability, high availability, and optimization, businesses can build resilient, scalable and cost-effective cloud solutions.
 
-## Considerations in Cloud Architecture
+## Building in the Cloud: Key Architectural Considerations
 
 * **Security and Compliance:**
   * Prioritize "Secure by Design" Principles: Integrate security considerations into every stage of the development lifecycle.
@@ -41,6 +41,24 @@ Rapid Replication & Recreation: Leverage IaC to enable the rapid replication and
   * Utilize auto-scaling: Dynamically adjust the number of instances based on demand to optimize resource utilization.
   * Leveraging Cost-Effective Pricing Models: Reserve and commit hardware and software
   * Utilize cloud cost management tools: Monitor cloud spending, identify cost anomalies, and track trends.
+ 
+## Best practice and References 
+
+* Adopt the cloud provider's well-architected framework. This offers best practices and design principles for building reliable and efficient systems.
+* Maximize productivity, minimize operational overhead, and enhance scalability by using cloud-native services and serverless computing
+* Implement Continuous Integration and Continuous Deployment (CI/CD) pipelines to automate software delivery, testing, and deployment, enabling fast and reliable releases
+* Manage and define infrastructure resources using IaC tools like Terraform or CloudFormation. This ensures consistency, reproducibility, and scalability.
+* Integrate security practices into every stage of development. Conduct security testing, vulnerability scanning, and regular updates to maintain system security.
+
+Cloud architecture frameworks and best practices references: 
+
+* The [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework) provides recommendations to help architects, developers, administrators, and other cloud practitioners design and operate a cloud topology that's secure, efficient, resilient, high-performing, and cost-effective. The Google Cloud Architecture Framework is our version of a well-architected framework.
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected) helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability 
+
+* The [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) is a set of quality-driven tenets, architectural decision points, and review tools intended to help solution architects build a technical foundation for their workloads.
+
+* The [CIS Foundations Benchmarks](https://www.cisecurity.org/insights/blog/foundational-cloud-security-with-cis-benchmarks) are a part of the family of cybersecurity standards managed by the Center for Internet Security (CIS). CIS Benchmarks are consensus-based, vendor-agnostic secure configuration guidelines for the most commonly used systems and technologies.
 
 ## Conclusion 
 By establishing a well-defined cloud architecture framework, organizations can achieve agility, scalability, cost optimization, enhanced security, sustainability, and improved reliability in their cloud deployments
