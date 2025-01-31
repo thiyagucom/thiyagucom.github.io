@@ -6,7 +6,7 @@ feature_about:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
-    excerpt: "A seasoned Cloud Architect with over 16 years of experience, I specialize in designing and optimizing both cloud and on-premises infrastructure.  My expertise spans public and hybrid cloud solutions, encompassing architecture design, cloud operations (CloudOps, DevOps, and SecOps), technical support, and consulting. <br><br> Outside of the tech world, I'm also a certified NSNIS field hockey coach with 8 years of experience.<br><br>
+    excerpt: "A seasoned Cloud Architect with over 16 years of experience, I specialize in designing and optimizing both cloud and on-premises infrastructure.  My expertise spans public and hybrid cloud solutions, encompassing architecture design, cloud operations (CloudOps, DevOps, and SecOps), technical support, and consulting. <br><br> Outside of the tech world, I'm also a NSNIS certified field hockey coach with 8 years of experience.<br><br>
     [<img alt='twitter' width='48px' src='assets/images/cv-icon.png'>](https://thiyagu.com/blog/assets/Thiyagarajan_K_Cloud_Architect_Resume.pdf)
     [<img alt='twitter' width='48px' src='assets/images/twitter_icon.png'>](https://twitter.com/2mrt)
 [<img alt='linkedin' width='48px' src='assets/images/linkedin_icon.png'>](https://www.linkedin.com/in/2thiyagu/)"
