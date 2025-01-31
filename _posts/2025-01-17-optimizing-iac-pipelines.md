@@ -52,7 +52,7 @@ Maintaining the security of our code is paramount, and a critical aspect of that
 
 Suggested Tool: [gitleaks](https://github.com/gitleaks/gitleaks)
 
-For further insights into Gitleaks, please refer to my How To Post [post](https://thiyagu.com/blog/guides/detecting-secrets-in-repos/)
+For further insights into Gitleaks, please refer to my How To [Post](https://thiyagu.com/blog/guides/detecting-secrets-in-repos/)
 
 ### Compliance and Security:
 
