@@ -23,9 +23,7 @@ feature_certification:
 title: "Hello there! Thanks for dropin"
 ---
 
-{% include feature_row id="feature_certification" left%}
-
-I’m an Cloud Architect with 16+ years of experience in crafting and optimizing cloud and on-premises infrastructure. Specializing in Public and Hybrid Cloud solutions, I provide expert guidance in architecture design, operations (CloudOps, DevOps and SecOps), technical support, and consultancy.
+{% include feature_row id="feature_certification"  type="left" %}
 
 
 ## Education and Certifications
