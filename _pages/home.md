@@ -2,7 +2,7 @@
 layout: splash
 permalink: /about
 hidden: true
-feature_row4:
+feature_about:
   - image_path: /assets/images/avatar.png
     alt: "Thiyagarajan Karuppaiah"
     title: "Techi - Athlete - Blithesome"
@@ -23,7 +23,7 @@ feature_certification:
 title: "Hello there! Thanks for dropin"
 ---
 
-{% include feature_row id="feature_certification"  type="left" %}
+{% include feature_row id="feature_about"  type="left" %}
 
 
 ## Education and Certifications
