@@ -33,7 +33,7 @@ There are two primary ways to leverage Gitleaks for secret scanning:
 ### Pre-commit Hooks: 
 Git hooks are scripts that run before or after specific Git events, such as commits, pushes, or merges. Pre-commit hooks specifically run before a commit is finalized and can be used for various tasks, including secret scanning with Gitleaks. You can find instructions for setting up Gitleaks as a pre-commit hook in the official documentation: [Gitleaks as pre-commit hook](https://github.com/gitleaks/gitleaks?tab=readme-ov-file#pre-commit):
 
-![Pre Commit Hook](/blog/assets/precommit.png)
+![Pre Commit Hook](/assets/precommit.png)
 
 ### CI/CD Pipeline Integration: 
 Integrating Gitleaks with your CI/CD pipeline allows for automated scanning of your repositories as part of the development process. This ensures that secret leaks are caught early and addressed before they become a security risk.
@@ -41,7 +41,7 @@ The specific steps for integrating Gitleaks with your CI/CD pipeline will vary d
 
 * GitLab pipeline: 
 
-![GitLab](/blog/assets/gitlab-gitleaks.png)
+![GitLab](/assets/gitlab-gitleaks.png)
 
 * GitHub pipeline: 
 
@@ -52,7 +52,7 @@ GitHub scans repositories for known types of secrets, to prevent fraudulent use 
 
 Gitleak can be used as Github Action to scan the repositories
 
-![GitHub](/blog/assets/github-gitleaks.png)
+![GitHub](/assets/github-gitleaks.png)
 
 ## Customization
 
