@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about
+permalink: /
 hidden: true
 feature_about:
   - image_path: /assets/images/avatar.png
