@@ -20,7 +20,7 @@ feature_certification:
   - image_path: /assets/images/aws-certified-solutions-architect-associate.png
     alt: "Thiyagarajan Karuppaiah"
     title: "AWS Certified 'Solutions Architect – Associate'"
-title: "Hello there! Thanks for dropin"
+title: "Thiyagarajan Karuppaiah | Cloud Architect"
 ---
 
 {% include feature_row id="feature_about"  type="left" %}
