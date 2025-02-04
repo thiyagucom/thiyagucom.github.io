@@ -64,7 +64,7 @@ author:
       icon: "fab fa-twitter"
       url: "https://twitter.com/2mrt"
     - lable: "Linkedin"
-      icon: "fab fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/2thiyagu/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
