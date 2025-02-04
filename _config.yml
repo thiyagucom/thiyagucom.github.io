@@ -60,10 +60,10 @@ author:
   avatar : "/assets/images/dp.png"
   bio    : "Cloud Architect"
   links:
-    - lable: "Linkedin"
+    - label: "Stay in Touch"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/2thiyagu/"
-    - label: "Twitter"
+    - label: "Follow Me"
       icon: "fab fa-twitter"
       url: "https://twitter.com/2mrt"
     # - label: "GitHub"
