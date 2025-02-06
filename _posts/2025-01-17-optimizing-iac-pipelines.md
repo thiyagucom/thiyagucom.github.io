@@ -20,7 +20,10 @@ Even minor code modifications can have significant repercussions within the depl
 
 CI/CD pipelines empower teams to perform comprehensive validation through automated code quality checks and testing. 
 
+
 ![IaC Pipeline](/assets/iac-pipeline.png)
+{: .text-center}
+
 
 ## What is Infrastructure as Code
 
