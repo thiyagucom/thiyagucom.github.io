@@ -1,5 +1,5 @@
 ---
-title: "Optimizing IaC Pipelines"
+title: "Securing Your Infrastructure as Code Pipeline: A Proactive Approach to Cloud Security"
 categories:
   - Architect
 classes: wide
