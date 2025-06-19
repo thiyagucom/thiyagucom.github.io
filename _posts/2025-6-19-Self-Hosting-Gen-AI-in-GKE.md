@@ -1,5 +1,5 @@
 ---
-title: "Hosting Generative AI in Google Kuberenetes Engine"
+title: "Self Hosting Generative AI Models in Google Cloud"
 categories:
   - Architect
 classes: wide
@@ -10,6 +10,7 @@ tags:
   - Generative AI
   - GenAI
   - GKE
+  - Google Kubernetes Engine
   - Kubernetes
   - LLM
   - Inference Gateway
