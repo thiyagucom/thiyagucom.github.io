@@ -77,11 +77,7 @@ Deploying Large Language Models (LLMs) in production demands a robust and scalab
 **Google Cloud** helps enterprises achieve these critical requirements with powerful services such as Google Kubernetes Engine (GKE), the specialized Inference Gateway for optimized serving, and Model Armor for comprehensive AI safety and security.
 
 ## Resources:
-* Self Hosting Gen AI in GKE:
-  https://cloud.google.com/blog/products/application-development/choosing-a-self-hosted-or-managed-solution-for-ai-app-development
-  
-* Inference Gateway:
-  https://cloud.google.com/kubernetes-engine/docs/concepts/about-gke-inference-gateway
-  
-* Model Armour :
-  https://cloud.google.com/security-command-center/docs/model-armor-overview
+
+https://cloud.google.com/blog/products/application-development/choosing-a-self-hosted-or-managed-solution-for-ai-app-development
+https://cloud.google.com/kubernetes-engine/docs/concepts/about-gke-inference-gateway
+https://cloud.google.com/security-command-center/docs/model-armor-overview
