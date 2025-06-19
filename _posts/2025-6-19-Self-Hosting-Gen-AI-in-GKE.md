@@ -14,7 +14,6 @@ tags:
   - LLM
   - Inference Gateway
   - Model Armour 
-
 ---
 
 In the blink of an eye, Generative AI has moved from the realm of science fiction to an indispensable tool in our daily lives. 
