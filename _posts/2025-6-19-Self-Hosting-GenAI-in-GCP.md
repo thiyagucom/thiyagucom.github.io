@@ -25,7 +25,7 @@ For many, interacting with these powerful AI models means tapping into cloud-hos
 
 This is where the exciting world of self-hosting your own Large Language Models on Google Kubernetes Engine (GKE) comes into play. Moving beyond simple API calls, self-hosting on GKE means bringing these formidable computational brains into your own managed infrastructure, offering unparalleled flexibility and governance.
 
-## Google Kebernetes Engine (GKE)
+## Google Kubernetes Engine (GKE)
 
 While utilizing a managed LLM endpoint like Google's Gemini offers undeniable convenience, deploying an open model such as Gemma 2 directly on your GKE cluster provides distinct advantages, especially for advanced use cases:
 
@@ -78,6 +78,6 @@ Deploying Large Language Models (LLMs) in production demands a robust and scalab
 
 ## Resources:
 
-https://cloud.google.com/blog/products/application-development/choosing-a-self-hosted-or-managed-solution-for-ai-app-development
-https://cloud.google.com/kubernetes-engine/docs/concepts/about-gke-inference-gateway
-https://cloud.google.com/security-command-center/docs/model-armor-overview
+* https://cloud.google.com/blog/products/application-development/choosing-a-self-hosted-or-managed-solution-for-ai-app-development
+* https://cloud.google.com/kubernetes-engine/docs/concepts/about-gke-inference-gateway
+* https://cloud.google.com/security-command-center/docs/model-armor-overview
