@@ -2,9 +2,9 @@
 title: "Self Hosting Generative AI Models in Google Cloud"
 categories:
   - Architect
-header
-classes: wide
+header:
   og_image: https://cloud.google.com/static/kubernetes-engine/images/request-flow.png
+classes: wide
 tags:
   - Google Cloud
   - Hybrid Cloud
