@@ -59,11 +59,20 @@ GKE Inference Gateway offers several key capabilities to enhance Generative AI w
 
 ## Model Armour
 
-As organizations increasingly deploy powerful LLMs for critical applications, ensuring the safety, integrity, and responsible use of these models becomes paramount. This is where Google Cloud's Model Armor steps in. Model Armor is a specialized service designed to provide a crucial layer of AI safety and security for your generative models. It acts as a protective shield, integrating directly into your inference pipeline to scrutinize prompts and responses, safeguard against malicious inputs or harmful outputs, and provide the visibility needed for continuous improvement in AI safety
+As organizations increasingly deploy powerful LLMs for critical applications, ensuring the safety, integrity, and responsible use of these models becomes paramount. This is where Google Cloud's Model Armor steps in. 
+
+Model Armor is a special service that makes your AI models safer and more secure. Think of it like a protective shield for your AI. It checks what you ask the AI (prompts) and what the AI says back (responses) to make sure there's nothing harmful or malicious. This also helps you see how to keep making your AI safer over time.
 
 ![Model Armour](https://cloud.google.com/static/security-command-center/images/model-armor-architecture.svg)
 
-* **Robust AI Safety and Security:** Model Armor empowers organizations to proactively mitigate the security and safety risks inherent in LLM deployments. It specifically addresses critical concerns like prompt injection, "jailbreak" attempts, the creation of harmful content, exposure to malicious URLs, and accidental sensitive data leakage, ensuring secure and dependable LLM integration into products and services.
+* **Robust AI Safety and Security:** Model Armor empowers organizations to proactively mitigate the security and safety risks inherent in LLM deployments. It specifically addresses critical concerns like
+  * Prompt Injection
+  * "jailbreak" attempts
+  * The creation of harmful content
+  * Exposure to malicious URLs 
+  * Accidental sensitive data leakage
+
+  to ensure secure and dependable LLM integration into products and services.
 * **Centralized Management and Oversight:** Offering unified control across all LLM applications, Model Armor enables CISOs and security architects to effectively monitor and manage comprehensive security and safety policies from a single point.
 * **Versatile Deployment:** Model Armor is designed for flexibility, supporting multi-cloud, multi-model, and multi-LLM environments. Its adaptable deployment options allow seamless integration at various points within the LLM application architecture, fitting into diverse existing infrastructures and workflows.
 * **Customizable Policies and Seamless Integration:** Tailor Model Armor's policies to align precisely with unique application requirements and integrate it effortlessly into current operational processes.
