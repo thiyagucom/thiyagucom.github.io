@@ -27,21 +27,21 @@ That's where running your own Large Language Models on Google Kubernetes Engine 
 
 Deploying an open model such as Gemma 2 directly on your GKE cluster provides distinct advantages, especially for advanced use cases:
 
-* **You're in Charge:** You get total control over how your AI model runs, how much computing power it uses, and how it grows. This is super important for apps that need top-notch performance, security, or have strict rules to follow.
+* **You're in Charge:** You get total control over how your AI model runs, how much computing power it uses, and how it grows. This is very important for apps that need high performance, security, or have strict rules to follow.
 
 * **Lots of Power:** GKE is great at using powerful computer chips like NVIDIA GPUs and Google's own TPUs. You can easily set up your systems with the right kind of chips. Plus, you can make the most of these chips by sharing them among different tasks or even splitting one big chip into smaller, separate ones.
 
 * **Save Money:** If you're using AI a lot or all the time, running your own LLM on GKE can be much cheaper than paying for each bit of data you send to an online AI service. GKE also lets you use "Spot VMs," which are much cheaper (you can save up to 91%!) for AI tasks that don't need to run perfectly all the time.
 
-* **Keep Your Data Close and Private:** You can keep all your sensitive information and the AI model itself within your own private cloud. This is a big deal for companies that have strict rules about data privacy and where their data is stored.
+* **Keep Your Data Close and Private:** You can keep all your sensitive information and the AI model itself within your own cloud and specific region. This is a big deal for companies that have strict rules about data privacy and where their data is stored.
 
-* **Easy to Watch and Track:** GKE works smoothly with Google Cloud's tools for monitoring and logging. This means you get ready-made dashboards, performance numbers, and logs for your entire system. You can even track specific things about your LLM to help it automatically adjust and analyze how well it's doing.
+* **Easy to Monitor:** GKE works smoothly with Google Cloud Observability tools for monitoring and logging. This means you get pre-made and custom dashboards, performance metrics, and logs for your entire system. You can even track specific things about your LLM to help it automatically adjust and analyze how well it's doing.
 
-* **Faster Testing and New Ideas:** You're free to try out the newest developments in AI without any limits from online services. Running your own models means you can quickly experiment with the latest features and AI models.
+* **Faster Upgrade and New Ideas:** You're free to try out the newest developments in AI without any limits from online services. Running your own models means you can quickly experiment with the latest features and AI models.
 
 ## GKE Inference Gateway
 
-Effective load balancing stands as the cornerstone of any reliable and high-performing application. Serving as the vital traffic controller, it intelligently and uniformly distributes incoming requests across all available resources, thereby eliminating bottlenecks and ensuring an uninterrupted, smooth user experience.
+Effective load balancing stands as the cornerstone of any reliable and high-performing application. Serving as the vital traffic controller, GKE Inference Gateway intelligently and uniformly distributes incoming requests across all available resources, thereby eliminating bottlenecks and ensuring an uninterrupted, smooth user experience.
 
 GKE Inference Gateway, an extension to the GKE Gateway, offers optimized routing and load balancing specifically designed for serving Generative AI (GenAI) workloads. It significantly simplifies the deployment, management, and observability of AI inference workloads.
 
@@ -59,7 +59,7 @@ GKE Inference Gateway offers several key capabilities to enhance Generative AI w
 
 ## Model Armour
 
-In the evolving landscape of Generative AI, security is not just an add-on; it's a fundamental necessity. As organizations increasingly deploy powerful LLMs for critical applications, ensuring the safety, integrity, and responsible use of these models becomes paramount. This is where Google Cloud's Model Armor steps in. Model Armor is a specialized service designed to provide a crucial layer of AI safety and security for your generative models. It acts as a protective shield, integrating directly into your inference pipeline to scrutinize prompts and responses, safeguard against malicious inputs or harmful outputs, and provide the visibility needed for continuous improvement in AI safety
+As organizations increasingly deploy powerful LLMs for critical applications, ensuring the safety, integrity, and responsible use of these models becomes paramount. This is where Google Cloud's Model Armor steps in. Model Armor is a specialized service designed to provide a crucial layer of AI safety and security for your generative models. It acts as a protective shield, integrating directly into your inference pipeline to scrutinize prompts and responses, safeguard against malicious inputs or harmful outputs, and provide the visibility needed for continuous improvement in AI safety
 
 ![Model Armour](https://cloud.google.com/static/security-command-center/images/model-armor-architecture.svg)
 
